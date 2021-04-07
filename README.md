@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Clara, currently studying in Computer Science in France. Welcome to my page!
+I'm Clara, currently studying in France. Welcome to my page! 😉
 
 ∗ ✨ C / C++ / React Native / Flutter / Python / Haskell ... 
 <br/>
