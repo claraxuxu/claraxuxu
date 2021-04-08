@@ -2,7 +2,7 @@
 
 I'm Clara, currently studying in France. Welcome to my page! 😉
 
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=%40Yuhui%20XU&logo=LinkedIn&logoColor=blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyuhui-xu-2a880b172%2F">   <img style="height=10px" alt="Twitter URL" src="https://img.shields.io/twitter/url?label=claraxu1201%40gmail.com&logo=Gmail&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyuhui-xu-2a880b172%2F">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=%40Yuhui%20XU&logo=LinkedIn&logoColor=blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyuhui-xu-2a880b172%2F">              <img style="height=10px" alt="Twitter URL" src="https://img.shields.io/twitter/url?label=claraxu1201%40gmail.com&logo=Gmail&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyuhui-xu-2a880b172%2F">
 
 ∗ ✨ C / C++ / React Native / Flutter / Python / Haskell ... 
 <br/>
