@@ -2,11 +2,10 @@
 
 It's Clara, currently studying in France. Welcome to my page! 😉
 
-[![](https://img.shields.io/badge/@Yuhui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuhui-xu-2a880b172/)
-![](https://img.shields.io/badge/claraxu1201@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![](https://img.shields.io/badge/@Yuhui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuhui-xu-2a880b172/)   ![](https://img.shields.io/badge/claraxu1201@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <br/>
 
-const skills {<br/>
+`const skills` {<br/>
 ∗ 🔧 Coding Tools = <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Git&logo=git&style=social">     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Shell&logo=shell&logoColor=red&style=social">    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=VS%20Code&logo=visual%20studio&logoColor=blue&style=social">
 <br/>
 ∗ ✨ Working on = <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Andoird%20Project&logo=Android&logoColor=green&style=social">;
