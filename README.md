@@ -22,3 +22,4 @@ It's Clara, currently studying in France. Welcome to my page! 😉
 }
 <br/>
 ![](https://github-readme-stats.vercel.app/api?username=claraxuxu)
+![](https://github-readme-stats.vercel.app/api/?username=claraxuxu?orgs=EpitechIT220)
