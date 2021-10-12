@@ -21,4 +21,4 @@ It's Clara, currently studying in France. Welcome to my page! 😉
 ∗ 🗺️ Speak = 🇨🇳Chinese, 🇫🇷French, 🇬🇧English <br/>
 }
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=claraxuxu)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=claraxuxu) -->
