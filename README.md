@@ -4,7 +4,7 @@ It's Clara, currently studying in France. Welcome to my page! 😉
 
 [![](https://img.shields.io/badge/@Yuhui-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuhui-xu-2a880b172/)   ![](https://img.shields.io/badge/claraxu1201@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <br/>
-[![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=claraxuxu)](https://github.com/claraxuxu/github-readme-stats)
+[![Clara's GitHub stats](https://github-readme-stats.vercel.app/api?username=claraxuxu&show_icons=true&theme=dark)
 
 `const skills` {<br/>
 &nbsp;&nbsp;∗ 🔧 Coding Tools = <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Git&logo=git&style=social&url=https%3A%2F%2Fgithub.com%2Fclaraxuxu">    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Shell%20%2F%20Bash&logo=shell&style=social&url=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D%26cad%3Drja%26uact%3D8%26ved%3D2ahUKEwjz9t2Pt-_vAhUPzYUKHXkUDfAQFjABegQICBAD%26url%3Dhttps%253A%252F%252Fen.wikipedia.org%252Fwiki%252FBash_%28Unix_shell%29%26usg%3DAOvVaw3joBHqysofmVvhAyLxRCAC"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=VS%20Code&logo=visual%20studio&style=social&url=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D%26cad%3Drja%26uact%3D8%26ved%3D2ahUKEwiLudiht-_vAhXIyYUKHf66Db0QFjAAegQIAhAE%26url%3Dhttps%253A%252F%252Fcode.visualstudio.com%252F%26usg%3DAOvVaw15O90sm1ios8AUpw56hCml">
